@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_Widgets_ListView</string>
+    <string name="str_wage_data">工资资料</string>
+    <string name="str_faceImg">头像</string>
+    <string name="str_username">姓名</string>
+    <string name="str_salary">工资</string>
+</resources>
